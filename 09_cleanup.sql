@@ -1,0 +1,4 @@
+-- 09_cleanup.sql
+-- Convenience cleanup to reset the environment.
+-- Uncomment if needed.
+-- DROP DATABASE IF EXISTS bestbuy_dw;
